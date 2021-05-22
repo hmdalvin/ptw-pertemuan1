@@ -21,11 +21,11 @@ Route::get('/', function () {
 Route::get('/', [HomeController::class, 'index']);
 
 Route::get('/artikel', function () {
-    return view('artikel0252');
+    return view('artikel0246');
 });
 
 Route::get('/contact', function () {
-    return view('contact0252');
+    return view('contact0246');
 });
 
 

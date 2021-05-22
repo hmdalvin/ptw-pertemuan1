@@ -8,35 +8,32 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
-    <title>ini bagian contact us</title>
+    <title>Home</title>
   </head>
   <body>
     <header>
         <nav class="navbar navbar-dark bg-primary navbar-expand-lg">
             <div class="container-fluid">
-              <a class="navbar-brand" href="#">Navbar</a>
+              <a class="navbar-brand">Navbar</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                  <a class="nav-link" aria-current="page" href="{{url('/')}}">Home</a>
+                  <a class="nav-link active" aria-current="page" href="{{url('/')}}">Home</a>
                   <a class="nav-link" href="{{url('/artikel')}}">Artikel</a>
-                  <a class="nav-link active" href="{{url('/contact')}}">Contact Us</a>
+                  <a class="nav-link" href="{{url('/contact')}}">Contact Us</a>
                 </div>
               </div>
             </div>
           </nav>
     </header>
-    <div class="text-center">
-      <img src="/resources/views/images/Photo-Profile-Yellow.jpg" class="rounded" alt="...">
+
+    <!--content-->
+    <div class="container-fluid p-3 mb-2 bg-light text-dark">
+        <h2>pengenalan framework di kelas praktikum ptw </h2>
+        <h3>Jessica Angelina Gatur-1461900246</h3>
     </div>
-    <h1 class="text-center">Contact Me :</h1>
-    <p class="text-center">Ahmad Alfianto.</p>
-    <p class="text-center">NBI : 1461900252 - Untag Surabaya</p>
-    <p class="text-center">email : aafian987@gmail.com</p>
-    <p class="text-center">Instagram : hmdalvin</p>
-    <p class="text-center">no. Telp : 085730435202</p>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

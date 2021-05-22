@@ -30,45 +30,6 @@
     </header>
     <!--content-->
     <div class="container-fluid p-3 mb-2 bg-light text-dark">
-      <div class="card" style="width: 18rem;">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Laravel</h5>
-          <p class="card-text">Laravel adalah framework ....</p>
-          <a href="#" class="btn btn-primary">Open</a>
-        </div>
-        <div class="card" style="width: 18rem;">
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">CakePHP</h5>
-            <p class="card-text">CakePHP adalah framework ...</p>
-            <a href="#" class="btn btn-primary">Open </a>
-          </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Symphony</h5>
-            <p class="card-text">Symphony adalah framework ...</p>
-            <a href="#" class="btn btn-primary">Open </a>
-          </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Zend</h5>
-            <p class="card-text">Zend adalah framework ...</p>
-            <a href="#" class="btn btn-primary">Open </a>
-          </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Codeigniter</h5>
-            <p class="card-text">Codeigniter adalah framework ...</p>
-            <a href="#" class="btn btn-primary">Open </a>
-          </div>
-        </div>
       </div>
       <h1>Pengenalan Framework</h1>
       <h2>Apa Itu Framework?</h2>
@@ -81,11 +42,7 @@
       <h3>2. CakePHP</h3>
       <p>CakePHP dirilis pada tahun 2000 dan berada di daftar teratas framework PHP selama bertahun-tahun dengan pembaruan yang terus-menerus. Salah satu framework terbaik dan mudah digunakan untuk pemula dan ahli adalah CakePHP yang konsisten dengan rapid application development. CakePHP adalah salah satu pilihan terbaik karena kesederhanaan dan skalabilitasnya untuk memberikan dukungan yang bagus bagi sistem.</p>
       <h3>3. Symfony</h3>
-      <p>Symfony membantu Anda mengembangkan aplikasi yang kuat dengan fitur-fiturnya yang paling bagus. Pada tahun 2005, Symfony diluncurkan dengan arsitektur MVC, penggunaan kembali kode, session management, routing URI yang fleksibel, dan dukungan platform yang berbeda untuk kelas basis data. Beberapa kelebihan Symfony adalah tingkat keamanan yang tinggi terhadap banyak ancaman seperti pemalsuan dan permintaan lintas situs, akses server API, skalabilitas, kemampuan untuk memperluas, elemen dan konfigurasi independen, penggunaan memori yang kecil, stabil dan fleksibel.</p>
-      <h3>4. Zend</h3>
-      <p>Sulit untuk mengalahkan frame Zend jika Anda mencari aplikasi industri skala besar. Framework ini menyediakan hampir semua fitur OOP menjadi framework berorientasi objek seperti enkapsulasi dll. Zend terintegrasi dengan baik pada lingkungan yang memfasilitasi pengembangan produk software  berkualitas tinggi untuk perusahaan. Framework ini sesuai dengan praktik terbaik PHP dengan penyesuaian dan fleksibilitas tinggi yang membantu menambah fungsionalitas sesuai kebutuhan Anda.</p>
-      <h3>5. CodeIgniter</h3>
-      <p>Framework CodeIgniter dirilis pada tahun 2006 untuk membangun aplikasi web yang dapat diskalakan. CodeIgniter telah diakui sebagai framework yang paling sederhana, kecepatan tinggi, dan mudah digunakan untuk kinerja tinggi. CodeIgniter terdiri dari sejumlah besar fitur dengan panduan, tutorial, dan banyak lagi untuk untuk mengembangkan dan memahami fitur-fiturnya dengan lebih baik. CodeIgniter memiliki keamanan tinggi, ringan, mendukung berbagai basis data dan platform, dan fitur enkripsi data tinggi. CodeIgniter menonjol karena kecepatannya dibandingkan dengan framework lain seperti dengan tugas-tugas database yang bekerja lebih cepat. Programmer pemula dapat dengan mudah memahami framework saat membandingkan dengan ZEND Framework. Baca selengkapnya tentang codeigniter</p>    
+      <p>Symfony membantu Anda mengembangkan aplikasi yang kuat dengan fitur-fiturnya yang paling bagus. Pada tahun 2005, Symfony diluncurkan dengan arsitektur MVC, penggunaan kembali kode, session management, routing URI yang fleksibel, dan dukungan platform yang berbeda untuk kelas basis data. Beberapa kelebihan Symfony adalah tingkat keamanan yang tinggi terhadap banyak ancaman seperti pemalsuan dan permintaan lintas situs, akses server API, skalabilitas, kemampuan untuk memperluas, elemen dan konfigurasi independen, penggunaan memori yang kecil, stabil dan fleksibel.</p>    
     </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
