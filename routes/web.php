@@ -27,5 +27,3 @@ Route::get('/artikel', function () {
 Route::get('/contact', function () {
     return view('contact0252');
 });
-
-
