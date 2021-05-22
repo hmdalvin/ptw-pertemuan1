@@ -61,7 +61,14 @@
         <p>Sulit untuk mengalahkan frame Zend jika Anda mencari aplikasi industri skala besar. Framework ini menyediakan hampir semua fitur OOP menjadi framework berorientasi objek seperti enkapsulasi dll. Zend terintegrasi dengan baik pada lingkungan yang memfasilitasi pengembangan produk software  berkualitas tinggi untuk perusahaan.
     
           Framework ini sesuai dengan praktik terbaik PHP dengan penyesuaian dan fleksibilitas tinggi yang membantu menambah fungsionalitas sesuai kebutuhan Anda.</p>
-      </div>
+        
+        <h3>5. CodeIgniter</h3>
+
+        <p>Framework CodeIgniter dirilis pada tahun 2006 untuk membangun aplikasi web yang dapat diskalakan. CodeIgniter telah diakui sebagai framework yang paling sederhana, kecepatan tinggi, dan mudah digunakan untuk kinerja tinggi. CodeIgniter terdiri dari sejumlah besar fitur dengan panduan, tutorial, dan banyak lagi untuk untuk mengembangkan dan memahami fitur-fiturnya dengan lebih baik. CodeIgniter memiliki keamanan tinggi, ringan, mendukung berbagai basis data dan platform, dan fitur enkripsi data tinggi. CodeIgniter menonjol karena kecepatannya dibandingkan dengan framework lain seperti dengan tugas-tugas database yang bekerja lebih cepat. Programmer pemula dapat dengan mudah memahami framework saat membandingkan dengan ZEND Framework. Baca selengkapnya tentang codeigniter
+        </p>
+    
+    
+    </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

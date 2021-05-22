@@ -28,6 +28,15 @@
             </div>
           </nav>
     </header>
+    <div class="text-center">
+      <img src="/resources/views/images/Photo-Profile-Yellow.jpg" class="rounded" alt="...">
+    </div>
+    <h1 class="text-center">Contact Me :</h1>
+    <p class="text-center">Ahmad Alfianto.</p>
+    <p class="text-center">NBI : 1461900252 - Untag Surabaya</p>
+    <p class="text-center">email : aafian987@gmail.com</p>
+    <p class="text-center">Instagram : hmdalvin</p>
+    <p class="text-center">no. Telp : 085730435202</p>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

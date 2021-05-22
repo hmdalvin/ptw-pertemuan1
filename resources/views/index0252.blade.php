@@ -31,7 +31,9 @@
 
     <!--content-->
     <div class="container-fluid p-3 mb-2 bg-light text-dark">
-        <h1>Hallo Dunia. Hari ini kita akan memasuki kontent pengenalan framework di kelas praktikum ptw</h1>
+        <h1>Hallo Dunia.</h1>
+        <h2>Hari ini kita akan memasuki kontent pengenalan framework di kelas praktikum ptw </h2>
+        <h3>Oleh Ahmad Alfianto-1461900252</h3>
     </div>
     
 
