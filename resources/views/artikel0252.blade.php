@@ -34,8 +34,8 @@
         <img src="..." class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Laravel</h5>
-          <p class="card-text">Laravel adalah framework ...</p>
-          <a href="#" class="btn btn-primary">Open </a>
+          <p class="card-text">Laravel adalah framework ....</p>
+          <a href="#" class="btn btn-primary">Open</a>
         </div>
         <div class="card" style="width: 18rem;">
           <img src="..." class="card-img-top" alt="...">
